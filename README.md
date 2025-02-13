@@ -1,1 +1,1 @@
-# data_science_assgns
+# Data Science Assignments
